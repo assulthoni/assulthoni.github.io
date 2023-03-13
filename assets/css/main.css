@@ -2908,6 +2908,13 @@ input, select, textarea {
 						padding-left: 0;
 					}
 
+#iframe-substack {
+	position: relative; 
+	height: 320px; 
+	width: 100%;
+	border:0px solid #EEE; 
+	background:white;
+}
 /* Large */
 
 	@media screen and (max-width: 1680px) {
